@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "author": "Chinua Achebe",
+    "country": "Nigeria",
+    "language": "English",
+    "pages": 209,
+    "title": "Things Fall Apart",
+    "img": "https://cdn.kobo.com/book-images/d4c01680-2500-4a25-a3e7-86aab01e567d/353/569/90/False/things-fall-apart-11.jpg",
+    "year": 1958,
+    "content": "With more than 20 million copies sold and translated into fifty-seven languages, Things Fall Apart provides one of the most illuminating and permanent monuments to African experience. Achebe does not only capture life in a pre-colonial African village, he conveys the tragedy of the loss of that world while broadening our understanding of our contemporary realities."
+  },
+  {
+    "id": 2,
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "language": "Danish",
+    "pages": 784,
+    "title": "Fairy tales",
+    "img": "https://m.media-amazon.com/images/I/71SlCNQRinL._SY522_.jpg",
+    "year": 1836,
+    "content": "Folklorists have classified fairy tales in various ways. The Aarne-Thompson-Uther classification system and the morphological analysis of Vladimir Propp are among the most notable. Other folklorists have interpreted the tales' significance, but no school has been definitively established for the meaning of the tales."
+  },
+  {
+    "id": 3,
+    "author": "Dante Alighieri",
+    "country": "Italy",
+    "language": "Italian",
+    "pages": 928,
+    "title": "The Divine Comedy",
+    "img": "https://cdn.kobo.com/book-images/6e5d9a87-148d-4846-aecb-061f0a0bcf14/353/569/90/False/the-divine-comedy-51.jpg",
+    "year": 1315,
+    "content": "Erich Auerbach said Dante was the first writer to depict human beings as the products of a specific time, place and circumstance, as opposed to mythic archetypes or a collection of vices and virtues, concluding that this, along with the fully imagined world of the Divine Comedy, suggests that the Divine Comedy inaugurated realism and self-portraiture in modern fiction."
+  },
+  {
+    "id": 4,
+    "author": "Jane Austen",
+    "country": "United Kingdom",
+    "language": "English",
+    "pages": 226,
+    "title": "Pride and Prejudice",
+    "img": "https://cdn.kobo.com/book-images/1a735d96-6075-4bca-87b7-15fb97ee50c7/353/569/90/False/pride-and-prejudice-216.jpg",
+    "year": 1813,
+    "content": "Mr Bennet, owner of the Longbourn estate in Hertfordshire, has five daughters, but his property is entailed and can only be passed to a male heir. His wife also lacks an inheritance, so his family faces becoming poor upon his death. Thus, it is imperative that at least one of the daughters marry well to support the others, which is a motivation that drives the plot."
+  },
+  {
+    "id": 5,
+    "author": "Samuel Beckett",
+    "country": "Republic of Ireland",
+    "language": "French, English",
+    "pages": 256,
+    "title": "Molloy, Malone Dies",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645833303i/12279.jpg",
+    "year": 1952,
+    "content": "On first appearance the book concerns two different characters, both of whom have interior monologues in the book. As the story moves along the two characters are distinguished by name only as their experiences and thoughts are similar. The novel is set in an indeterminate place, most often identified with the Ireland of Beckett's birth."
+  },
+  {
+    "id": 6,
+    "author": "William Faulkner",
+    "country": "United States",
+    "language": "English",
+    "pages": 313,
+    "title": "Absalom, Absalom!",
+    "img": "https://cdn.kobo.com/book-images/75e51a46-0ea5-418f-9418-8db62e3f7931/1200/1200/False/absalom-absalom-19.jpg",
+    "year": 1936,
+    "content": "Henry goes to the University of Mississippi and meets fellow student Charles Bon, who is ten years his senior. Henry brings Charles home for Christmas, and Charles and Judith begin a quiet romance that leads to a presumed engagement. However, Thomas Sutpen realizes that Charles Bon is his son from an earlier marriage and moves to stop the proposed union."
+  }
+]
